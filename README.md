@@ -67,3 +67,4 @@ View the [Developer Code Examples page](https://developer.effect.network/quickst
 
 -   [Junglev3 Testnet](https://monitor.jungletestnet.io/#home)
 -   [Faucet bot availabe on Discord](https://discord.gg/bq4teBnH3V) (for free testnet EFX)
+hello
